@@ -1,0 +1,20 @@
+# Java compiled files
+*.class
+
+# IDE files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Build/output folders
+bin/
+out/
+build/
+
+# Generated compressed files
+*.huff
+
+# Temporary decompressed test files
+*_decompressed.txt
